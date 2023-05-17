@@ -1,4 +1,6 @@
-# Kodluyoruz - Chichken Salad Recipe
+# Kodluyoruz - Chicken Salad Recipe
+
+## ![Image](img/web_page.png)
 
 This repo is created for [Kodluyoruz](https://kodluyoruz.org/) HTML Learning Homework - 3. It contains index.html, gitignore and README.md files.  
 
